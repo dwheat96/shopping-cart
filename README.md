@@ -1,2 +1,2 @@
-# shopping-cart
-shopping cart lesson from phase 2
+# shopping-list
+shopping list lesson from phase 2
